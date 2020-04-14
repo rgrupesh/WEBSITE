@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<div class="my-3">
+    {% if page.image %}
+    <div class="post-header" style="background-image: url({{ page.image | prepend: 'assets/images/' | relative_url }});"></div>
+    <hr>
+    {% endif %}
+
+    <div>
+        <h1>{{ page.title }}</h1>
+        <div>
+            <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span>
+            <div class="float-right">
+                {% for category in page.categories %}
+                {% assign category_url = 'category/' | append: category | append: '/' %}
+                <a href="{{ category_url | relative_url }}" class="badge badge-pill badge-primary">{{ category }}</a>
+                {% endfor %}
+            </div>
+        </div>
+        <hr>
+
+        {{ content }}
+
+        {% if page.gallery %}
+        <hr>
+        {% include post-carousel.html %}
+        {% endif %}
+
+        {% if page.tags.size > 0 %}
+        <div class="small text-muted">
+            <strong>Tags:</strong> {{ page.tags | join:', ' }}
+        </div>
+        {% endif %}
+
+        <hr>
+        <div class="row">
+            <div class="col text-center text-md-left">
+                {% if page.previous != nil %}
+                <a href="{{ site.baseurl }}{{ page.previous.url }}" class="btn btn-outline-primary">&laquo; {{ page.previous.title }}</a>
+                {% endif %}
+            </div>
+            <div class="col text-center text-md-right">
+                {% if page.next != nil %}
+                <a href="{{ site.baseurl }}{{ page.next.url }}" class="btn btn-outline-primary">{{ page.next.title }} &raquo;</a>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
