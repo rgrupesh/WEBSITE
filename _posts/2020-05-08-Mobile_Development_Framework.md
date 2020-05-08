@@ -34,11 +34,11 @@ Progressive Web App is an app built from the web technologies like HTML, CSS, an
 
 ![](/assets/images/2frame.png)
 
-<ul>Demerits
+<ul><b>Demerits</b>
 <li>Slower than native app</li>
 <li>UI/UX limitation</li>
 </ul>
-<ul>Merits
+<ul><b>Merits</b>
 <li>Cheaper to develop,deploy</li>
 <li>Require less storage</li>
 <li>No store required</li>
@@ -51,13 +51,13 @@ Cross-Platform Native Apps are created using Xamarin,React Native,Flutter. These
 
 <ul><dl>
 <li><dt><b>Microsoft</b></dt></li>
-<dd>[Xamarin](https://dotnet.microsoft.com/apps/xamarin)</dd>
+<dd><a href=""https://dotnet.microsoft.com/apps/xamarin/">Xamarin</dd>
 <dd>Language: .NET, C#, F#</dd>
 <li><dt><b>Facebook</b></dt></li>
-<dd>[React Native](https://reactnative.dev/)</dd>
+<dd><a href="https://reactnative.dev/">React Native</a></dd>
 <dd>Language:JavaScript</dd>
 <li><dt><b>Google</b></dt></li>
-<dd>[Flutter](https://flutter.dev/)</dd>
+<dd><a href="https://flutter.dev/">Flutter</a></dd>
 <dd>Language: DART</dd>
 </dl>
 </ul>
