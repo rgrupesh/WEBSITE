@@ -2,9 +2,9 @@
 layout: post
 title: Choosing the Best Mobile App Framework
 date: 08.05.2020 2:45
-categories: Application_Development
+categories: Application_Development,Frameworks
 image: mobile.jpeg
-tags: [iOS,Android,React native,Flutter]
+tags: [iOS,Android,Xcode,Android Studio,Angularjs,React,Xamarin,React native,Flutter]
 ---
 
 Choosing a mobile develpoment framework can be daunting at times.There are many option and consideration to make outside the framework.<br>
@@ -51,7 +51,7 @@ Cross-Platform Native Apps are created using Xamarin,React Native,Flutter. These
 
 <ul><dl>
 <li><dt><b>Microsoft</b></dt></li>
-<dd><a href=""https://dotnet.microsoft.com/apps/xamarin/">Xamarin</dd>
+<dd><a href=""https://dotnet.microsoft.com/apps/xamarin/">Xamarin</a></dd>
 <dd>Language: .NET, C#, F#</dd>
 <li><dt><b>Facebook</b></dt></li>
 <dd><a href="https://reactnative.dev/">React Native</a></dd>
