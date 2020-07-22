@@ -2,4 +2,8 @@
 layout: default
 ---
 
-It's me.
+{% for post in site.about %}
+
+    {% include aboutme.html %}
+
+{% endfor %}
