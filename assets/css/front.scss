@@ -11,16 +11,16 @@ body,
 }
 
 body {
-    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url({{ "assets/background.jpg" | relative_url }});
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url({{ "assets/background1.jpg" | relative_url }});
     background-size: cover;
 }
 
 h1 {
     font-size: 4rem;
-    color: white;
+    color: floralwhite;
 }
 h2 {
-    color: white;
+    color: floralwhite;
 }
 
 @import "icons";
