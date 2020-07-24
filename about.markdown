@@ -19,6 +19,6 @@ permalink: /about/
 This Project uses neural-network & genetic algorithm for bird's brain.<br>
 <li><a href="https://github.com/rgrupesh/sudoku_solver_real_time">Sodoku Solver</a> </li>
 Uses openCV, Tensorflow, and Python.
-<li><a href="https://github.com/rgrupesh/GitHub-Repo-Stars">Github Repo Stars<</a></li>
+<li><a href="https://github.com/rgrupesh/GitHub-Repo-Stars">Github Repo Stars</a></li>
 Uses GitHub API to categorize repos according to stars.
 </ul>
