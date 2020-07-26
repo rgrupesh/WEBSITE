@@ -20,24 +20,25 @@ Firstly, developer should have knowladge of front end technologies like Bootstra
 ![](/assets/images/traditional.png)
 
 Further, a full stack developer can specialize into one or many software stack.<br>
-1: MEAN Stack: MONGO | EXPRESS | ANGULAR tra| NODE<br>
+1: MEAN Stack: MONGO | EXPRESS | ANGULAR| NODE<br>
 2: MERN Stack: MONGO | EXPRESS | REACT| NODE<br>
 3: MEVN Stack: MONGO | EXPRESS | VUE | NODE<br>
 4: LAMP Stack: LINUX | APACHE | MYSQL | PHP<br>
 5: Django Stack: JAVASCRIPT | PYTHON | DJANGO | MYSQL<br>
 
 <h2>Javascript Full Stack</h2>
-Learning various languages can be cumbersome at times. This is where JavaScript comes in. In javascript full stack, presentaion layer can be built using JavaScript frameworks, such as: React, angular or Vue. Similarly, business logic layer is constructed with Node.js and node-modules to communicate with front end using rest API serving JSON. Finally, MongoDb is used in data access layer.
+Learning various languages can be cumbersome at times. This is where JavaScript comes in. In javascript full stack, presentaion layer can be built using JavaScript frameworks, such as: React, angular or Vue. Similarly, business logic layer is constructed with Node.js and node-modules to communicate with front end using rest API serving JSON. Finally, MongoDB is used in data access layer.
 There's tradeoff everywhere. Full Stack Web Dev is no exception. <br>
 
-The pros and cons of JavaScript full stack are as follows:<br>
+![](/assets/images/js.png)
 
+The pros and cons of JavaScript full stack are as follows:
 <h3>Pros</h3><br>
-prototype can be build rapidly.<br>
+Prototype can be build rapidly.<br>
 Common language, better team efficiency with less resources<br>
-code reuse<br>
-can switch between front and back end development based on requirements<br>
+Code reuse<br>
+Can switch between front and back end development based on requirements<br>
 
-</h3>cons</h3><br>
-heavy computation and data processing, node.js not recommended <br>
-really hard to master all aspects of web dev. Jack of all trades, master of none?<br>
+<h3>cons</h3><br>
+Heavy computation and data processing, node.js not recommended <br>
+Really hard to master all aspects of web dev. Jack of all trades, master of none?<br>
