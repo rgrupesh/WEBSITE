@@ -10,7 +10,7 @@ permalink: /about/
 <li>I am doing Bachelor of Engineering in Computer Science at <a href="http://nec.edu.np/">Nepal Engineering College</a>,currently in my sophomore year.</li>
 <li>I am into Machine Learning and Web Development.</li>
 <li>I write articles <a href="https://rupeshgelal.com.np/blog/">here.</a> </li>
-<li>I usually watch movies,web/TV series, and read books.</li>
+<li>I usually watch movies,web/TV series, and read Non-Fictional books.</li>
 </ul>
 
 <h3 style="color:green">Projects</h3>
