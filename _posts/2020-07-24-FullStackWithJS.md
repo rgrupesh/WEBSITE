@@ -10,7 +10,7 @@ tags: [HTML, CSS, JavaScript, BootStrap, Angular, React, Vue, Node.js, Express, 
 JavaScript has come long way in the last 20 years. JavaScript engine were orginally used only in web browsers, but they are now embedded even in some servers, usually via [Node.js](https://nodejs.org/en/). This evolution has made JavaScript a universal language.<br>
 
 <h2>Whai is Full Stack Web Development?</h2>
-Full Stack is the development of both Front end/Client-side and Back end/Server-side. Full Stack Web Development can be divided into three major layers: Presentation layer, Business logic layer, and Data access layer. Presentation layer handles UI/UX, Business logic layer deals with dyanamic data processing, and Data access layer provides data acesss through API.<br>
+Full Stack is the development of both front end/client-side and back end/server-side. Full Stack Web Development can be divided into three major layers: presentation layer, business logic layer, and data access layer. Presentation layer handles UI/UX, business logic layer deals with dyanamic data processing, and data access layer provides data acesss through API.<br>
 
 ![](/assets/images/three-layers.png)
 
@@ -19,7 +19,7 @@ Firstly, developer should have knowladge of front end technologies like [BootStr
 
 ![](/assets/images/traditional.png)
 
-Further, a full stack developer can specialize into one or many software stack.For instance:<br>
+Further, a Full Stack developer can specialize into one or many software stack.For instance:<br>
 1: MEAN Stack: MONGO | EXPRESS | ANGULAR| NODE<br>
 2: MERN Stack: MONGO | EXPRESS | REACT| NODE<br>
 3: MEVN Stack: MONGO | EXPRESS | VUE | NODE<br>
@@ -27,11 +27,11 @@ Further, a full stack developer can specialize into one or many software stack.F
 5: Django Stack: JAVASCRIPT | PYTHON | DJANGO | MYSQL<br>
 
 <h2>Javascript Full Stack</h2>
-Learning various languages can be cumbersome at times. This is where JavaScript comes in. In JavaScript Full Stack, presentaion layer is built using JavaScript frameworks, such as: [React](https://reactjs.org/), [Angular](https://angular.io/)) or [Vue](https://vuejs.org/). Similarly, business logic layer is constructed with [Node.js](https://nodejs.org/en/) and node-modules to communicate with front end using REST API serving JSON. Finally, [MongoDB](https://www.mongodb.com/) is used in data access layer.<br>
+Learning various languages can be cumbersome at times. This is where JavaScript comes in. In JavaScript Full Stack, presentaion layer is built using JavaScript frameworks, such as: [React](https://reactjs.org/), [Angular](https://angular.io/) or [Vue](https://vuejs.org/). Similarly, business logic layer is constructed with [Node.js](https://nodejs.org/en/) and node-modules to communicate with front end using REST API serving JSON. Finally, [MongoDB](https://www.mongodb.com/) is used in data access layer.<br>
 
 ![](/assets/images/js.png)
 
-There's tradeoff everywhere. Full Stack Web Dev is no exception.<br>The pros and cons of using JavaScript for Full Stack Web Dev are as follows:<br>
+There's trade-off everywhere. JavaScript Full Stack Web Dev is no exception.<br>
 <ul><b>Pros</b>
 <li>Prototype can be build rapidly.</li>
 <li>Common language, better team efficiency with less resources.</li>
@@ -40,6 +40,6 @@ There's tradeoff everywhere. Full Stack Web Dev is no exception.<br>The pros and
 </ul>
 <ul><b>Cons</b>
 <li>Node.js is not recommended for heavy backend computation and data processing,</li>
-<li>Jack of all trades, master of none? May be.<</li>
+<li>Jack of all trades, master of none? May be.</li>
 </ul>
 
